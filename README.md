@@ -61,22 +61,20 @@ This project analyzes publicly available Airbnb open data to gain insights into 
 
 ## 📈 Sample Outputs  
 
-### 1️⃣ Price Distribution  
-![Price Distribution](images/price_distribution.png)
+1. **Price Distribution**  
+   A visualization showing how listing prices vary across the dataset.
 
-### 2️⃣ Neighborhood-wise Heatmap  
-![Heatmap](images/heatmap.png)
+2. **Neighborhood-wise Heatmap**  
+   Highlights high-demand and low-demand neighborhoods using color-coded intensity.
 
-### 3️⃣ Room Type Comparison  
-![Room Type Comparison](images/room_type.png)
+3. **Room Type Comparison**  
+   Shows the availability and popularity of Entire Home, Private Room, Shared Room, etc.
 
-### 4️⃣ Correlation Heatmap  
-![Correlation Heatmap](images/correlation.png)
+4. **Correlation Heatmap**  
+   Displays relationships between price, availability, minimum nights, and reviews.
 
-### 5️⃣ Interactive Map  
-![Map](images/interactive_map.png)
-
-*(Replace image paths with your actual files — or keep placeholders.)*
+5. **Interactive Geo Map**  
+   A dynamic map showing listing locations and price variations across the city.
 
 ---
 
